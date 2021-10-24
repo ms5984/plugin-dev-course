@@ -1,5 +1,6 @@
 # `2.1 Data types`
-What is a data type? A data type is a way to classify data to the computer. It tells it how the programmer (you) intends to use that data, e.g. in the form of a number, a letter, a sentence.
+### What is a data type?
+A data type is a way to classify data to the computer. It tells it how the programmer (you) intends to use that data, e.g. in the form of a number, a letter, a sentence.
 
 The main data types are:
   - String (See more)
@@ -8,6 +9,8 @@ The main data types are:
   - Character (See more)
   - Boolean (See more)
 
+
+### Data types in Java.
 Java offers a more versatile approach to these main data types, providing you with appropriate variations of floating point types, as well as something called primitive and non-primitive types.
 
 Java's 8 primitive data types:
