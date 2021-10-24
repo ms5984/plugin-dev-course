@@ -4,10 +4,10 @@ A data type is a way to classify data to the computer. It tells it how the progr
 
 The main data types are:
   - String (See more)
-  - Integer (See more)
-  - Real/Floating point (See more)
-  - Character (See more)
-  - Boolean (See more)
+  - Integer (TODO)
+  - Real/Floating point (TODO)
+  - Character (TODO)
+  - Boolean (TODO)
 
 
 ### Data types in Java.
