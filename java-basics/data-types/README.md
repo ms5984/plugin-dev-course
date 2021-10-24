@@ -26,8 +26,8 @@ Java's 8 primitive data types:
 Java's non-primitive data types are infinite. They are just classes which we would refer to as data types. You can make your own to store data, and you can also use the ones provided by the Java library. All of the primtive data-types have non-primitive wrapper classes which are used as a neat way of managing your data. They provide utility methods and just overall ease.
 
 Java's 5 non-primitive data types:
-  - Class (TODO)
-  - Object (TODO)
+  - Class ([See more](implementation/CLASS.md))
+  - Object ([See more](implementation/CLASS.md#what-is-an-object))
   - Array (TODO)
   - String (TODO)
   - Interface (TODO)
