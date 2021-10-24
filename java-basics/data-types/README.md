@@ -3,7 +3,7 @@
 A data type is a way to classify data to the computer. It tells it how the programmer (you) intends to use that data, e.g. in the form of a number, a letter, a sentence.
 
 The main data types are:
-  - String (See more)
+  - String ([See more](fundamentals/STRING.md))
   - Integer (TODO)
   - Real/Floating point (TODO)
   - Character (TODO)
