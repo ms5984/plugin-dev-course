@@ -11,5 +11,6 @@ Booleans only specify 1 bit of information, and by default are 1 bit in size.
 
 ### Example
 ```java
-boolean myBoolean = false
+boolean a = false
+boolean b = true
 ```
