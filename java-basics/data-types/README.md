@@ -5,7 +5,7 @@ A data type is a way to classify data to the computer. It tells it how the progr
 The main data types are:
   - String ([See more](fundamentals/STRING.md))
   - Integer (TODO)
-  - Real/Floating point (TODO)
+  - Real (TODO)
   - Character (TODO)
   - Boolean (TODO)
 
