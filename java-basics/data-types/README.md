@@ -14,12 +14,20 @@ The main data types are:
 Java offers a more versatile approach to these main data types, providing you with appropriate variations of floating point types, as well as something called primitive and non-primitive types.
 
 Java's 8 primitive data types:
-  - boolean (See more)
-  - char (See more)
-  - byte (See more)
-  - short (See more)
-  - int (See more)
-  - long (See more)
-  - float (See more)
-  - double (See more)
+  - boolean ([See more](implementation/BOOLEAN.md))
+  - char ([See more](implementation/CHAR.md))
+  - byte ([See more](implementation/BYTE.md))
+  - short ([See more](implementation/SHORT.md))
+  - int ([See more](implementation/INT.md))
+  - long ([See more](implementation/LONG.md))
+  - float ([See more](implementation/FLOAT.md))
+  - double ([See more](implementation/DOUBLE.md))
 
+Java's non-primitive data types are infinite. They are just classes which we would refer to as data types. You can make your own to store data, and you can also use the ones provided by the Java library. All of the primtive data-types have non-primitive wrapper classes which are used as a neat way of managing your data. They provide utility methods and just overall ease.
+
+Java's 5 non-primitive data types:
+  - Class (TODO)
+  - Object (TODO)
+  - Array (TODO)
+  - String (TODO)
+  - Interface (TODO)
