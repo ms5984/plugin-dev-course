@@ -10,7 +10,7 @@ The main data types are:
   - Boolean ([See more](fundamentals/BOOLEAN.md))
 
 
-### Data types in Java.
+### Data types in Java
 Java offers a more versatile approach to these main data types, providing you with appropriate variations of floating point types, as well as something called primitive and non-primitive types.
 
 Java's 8 primitive data types:
