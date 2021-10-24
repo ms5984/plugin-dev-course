@@ -4,7 +4,7 @@ At first classes in Java can be hard to wrap your head around, to understand wha
 ### What is an object?
 A Java object is an instance (defined below) of a Java class. Each object has an identity, a behaviour and a state.
 
-The state of an object is stored in fields (defined below), while the methods (defined below) display and manage the object's behaviour. Objects are created at runtime from the classes (templates). You can create an object using the keyword `new`.
+The state of an object is stored in fields (defined below), while the methods (defined below) display and manage the object's behaviour. Objects are created at runtime from the classes (templates). You can create an object using the `new` keyword.
 
 #### Definitions
 ##### Instance
