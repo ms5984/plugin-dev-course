@@ -7,7 +7,7 @@ In Java, strings don't have a primtive type, only the wrapper class `String`.
 This data type is used to store strings of text, and any character.
 
 ### Size
-The size of a string is hard to determine, and will vary version to version. However, we can approximate String sizes from some information we can calculate.
+The size of a string is hard to determine, and will vary version to version. However, we can approximate String sizes from some information and calculations.
 
 A String object actually creates two objects, one being the String object you'd expect, and the other being a char array. The letters that make up your string are actually just an array of characters in Java. The String object in Java 8 is approximately 28 bytes (224 bits). The character array (without the characters in) is 16 bytes (128 bits), then for every character you add it's an extra 2 bytes (16 bits).
 
