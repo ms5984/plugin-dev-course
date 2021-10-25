@@ -28,6 +28,6 @@ Java's non-primitive data types are infinite. They are just classes which we wou
 Java's 5 non-primitive data types:
   - Class ([See more](implementation/CLASS.md))
   - Object ([See more](implementation/CLASS.md#what-is-an-object))
-  - Array (TODO)
-  - String (TODO)
-  - Interface (TODO)
+  - Array ([See more](implementation/ARRAY.md))
+  - String ([See more](implementation/STRING.md))
+  - Interface ([See more](implementation/INTERFACE.md))
