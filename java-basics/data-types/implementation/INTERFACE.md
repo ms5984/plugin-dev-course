@@ -5,7 +5,7 @@ As well as abstract methods, an interface can also contain default methods, stat
 
 The difference between the uses of interfaces and classes is that, a class describes the attributes and behaviours of an object. Whereas an interface contains the behaviours that a class implements.
 
-### What can't you do with an interface?
+### What can't you do with an interface?
   - You cannot instantiate an interface
   - An interface doesn't contain constructors
   - All of the methods in an interface are abstract
