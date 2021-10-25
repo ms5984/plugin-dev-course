@@ -11,3 +11,12 @@ The difference between the uses of interfaces and classes is that, a class descr
   - All of the methods in an interface are abstract
   - An interface is not extended by a class, it is implemented
   - An interface can extend multiple interfaces
+
+### Example of an interface, Car
+```java
+public interface Car {
+
+    
+
+}
+```
