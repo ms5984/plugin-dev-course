@@ -1,9 +1,14 @@
 # `Boolean (Fundamentals)`
-### What is a boolean?
-A boolean (bool for short) only has two potential values, `true` or `false`. To further understand booleans you must understand the [Boolean principle]().
+### What is a Boolean?
+A Boolean represents something that can only ever be one of two potential values: `True` or `False`.
+To further understand booleans, you must understand the [Boolean principle]().
 
-Some examples of booleans are: `true`, `false`, `1`, `0`, `on`, `off`
+Here are some examples of real-world states that represent boolean values:
+* of a true-or-false trivia question: **True** or **False**
+* of a bit in a computer: `1` or `0`
+* of a light: **on** or **off**
 
-Like anything, a string can technically hold a boolean value, but the computer will still only treat it as a string, not as a boolean.
+Perhaps confusingly, a [string](./STRING.md) can contain a representation of a boolean.
+It is important to know how this conversion--forward or backward--may affect your project.
 
-See how integers are implemented in Java [here]().
+See how Booleans are implemented in Java [here](../implementation/BOOLEAN.md).
