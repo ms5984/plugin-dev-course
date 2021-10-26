@@ -1,9 +1,9 @@
 # `Character (Fundamentals)`
-### What is a character?
-A character (char for short) is a single character surrounded by apostrohpes (`''`). When we say character, we mean letters, numbers and symbols.
+### What is a Character?
+A Character (`char`) represents a single letter, number or symbol.
 
-Some examples of characters are: `C`, ` `, `e`, `{`, `3`
+#### Storing digits in chars
+Much the same as strings, we can store small numbers (specifically the digits 0-9) in a character, but remember,
+the computer is no longer treating it as an integer.
 
-The same as strings, we can store a number in a character, but remember that the computer is not treating it as an integer.
-
-See how integers are implemented in Java [here]().
+See how characters are implemented in Java [here](../implementation/CHAR.md).
