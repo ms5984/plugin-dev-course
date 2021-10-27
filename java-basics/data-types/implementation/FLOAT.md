@@ -1,6 +1,6 @@
 # `Float (Java Implementation)`
 The Float data type is a single-precision IEEE-754 floating-point number.
-Its value range is unlimited.
+Its value range is unlimited; [precision is not](https://www.h-schmidt.net/FloatConverter/IEEE754.html).
 
 In Java:
 * Floats have a primitive type: `float`, and a wrapper class: `Float`.

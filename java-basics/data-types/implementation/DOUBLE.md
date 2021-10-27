@@ -1,6 +1,6 @@
 # `Double (Java Implementation)`
 The Double data type is a double-precision IEEE-754 floating-point number.
-Its value range is unlimited.
+Its value range is unlimited; [precision is not](https://www.exploringbinary.com/floating-point-converter/).
 
 In Java:
 * Doubles have a primitive type: `double`, and a wrapper class: `Double`.
