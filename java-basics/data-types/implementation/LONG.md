@@ -18,6 +18,6 @@ A long is 8 bytes (64 bits) in size.
 
 ### Example
 ```java
-long a = 926593485L
-long b = -62354727689L
+long a = 926593485L;
+long b = -62354727689L;
 ```
