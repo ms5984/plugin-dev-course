@@ -17,6 +17,6 @@ An int is 4 bytes (32 bits) in size.
 
 ### Example
 ```java
-int a = 934653
-int b = -345897
+int a = 934653;
+int b = -345897;
 ```
