@@ -4,7 +4,7 @@ Section 2 of the Plugin Dev Course.
 #### Lectures in Java Basics
 2.1.0:
   - 2.1.1 Data types ([See more](data-types/README.md))
-  - 2.1.2 Boolean principle (TODO)
+  - 2.1.2 Boolean principle ([See more](boolean-principle/README.md))
   - 2.1.3 String manipulation (TODO)
   - 2.1.4 Random number generation ([See more](random-number-generation/README.md))
   - 2.1.5 Programming fundamentals (TODO)
